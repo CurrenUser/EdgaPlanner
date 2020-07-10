@@ -1,0 +1,25 @@
+#UpDownOptions {
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+
+#UpDownOptions li {
+	list-style-type: none;
+}
+
+#UpDownOptions li button { 
+	width: 100px;
+	height: 40px;
+	background-color: rgb(100,240,50);
+}
+
+#UpDownOptions li button:hover { 
+	background-color: rgb(200,240,50);
+}
+
+#UpDownOptions li button:active { 
+	background-color: rgb(250,150,00);
+}
+
+

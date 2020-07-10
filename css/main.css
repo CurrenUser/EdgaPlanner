@@ -1,0 +1,20 @@
+body {
+	background-color: rgb(160,100,250);
+}
+
+button { 
+	width: 100px;
+	height: 40px;
+}
+
+#test {
+	border: 2px solid black;
+	width: 300px;
+	height: 300px;
+}
+
+#test2 {
+	border: 2px solid black;
+	width: 300px;
+	height: 300px;
+}
